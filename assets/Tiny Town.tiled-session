@@ -7,8 +7,19 @@
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "TinyTownMap.json": {
+            "scale": 2.2265625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 80.39298245614036,
+                "y": 80.39298245614034
+            }
+        },
+        "TinyTownMap.json#tiny-town-packed": {
+            "scaleInDock": 1
+        }
     },
-    "last.exportedFilePath": "/Users/ianliu/CMPM 120/Tiled World/TopDownWorld/assets",
+    "last.exportedFilePath": "/Users/ianliu/CMPM 120/TopDownWorld/assets",
     "last.imagePath": "/Users/ianliu/CMPM 120/Tiled World/TopDownWorld/assets",
     "map.height": 10,
     "map.lastUsedExportFilter": "All Files (*)",
@@ -20,6 +31,7 @@
     ],
     "project": "Tiny Town.tiled-project",
     "recentFiles": [
+        "TinyTownMap.json"
     ],
     "tileset.embedInMap": true,
     "tileset.tileSize": {
