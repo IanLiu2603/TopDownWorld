@@ -3,10 +3,22 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Tiny Town.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "Tiny Town.tmx": {
+            "scale": 2.2265625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 76.80000000000001,
+                "y": 76.80000000000001
+            }
+        },
+        "Tiny Town.tmx#tiny-town-packed": {
+            "scaleInDock": 1
+        },
         "TinyTownMap.json": {
             "scale": 2.2265625,
             "selectedLayer": 1,
@@ -28,10 +40,13 @@
     "map.tileWidth": 16,
     "map.width": 10,
     "openFiles": [
+        "TinyTownMap.json",
+        "Tiny Town.tmx"
     ],
     "project": "Tiny Town.tiled-project",
     "recentFiles": [
-        "TinyTownMap.json"
+        "TinyTownMap.json",
+        "Tiny Town.tmx"
     ],
     "tileset.embedInMap": true,
     "tileset.tileSize": {
